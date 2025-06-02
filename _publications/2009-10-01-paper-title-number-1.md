@@ -7,7 +7,7 @@ excerpt: 'Chaoshan online literature, as a branch of online literature of the Gu
 date: 2023-07-15
 venue: 'Journal of Shantou University(Humanities & Social Sciences Edition)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://edisonchen3.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jiang,T.& Chen,Y.N. (2023). &quot;On Chaoshan Online Literature: Its Present State, Bottleneck and Direction.&quot; <i>Journal of Shantou University(Humanities & Social Sciences Edition)</i>. 39(07).'
 ---
