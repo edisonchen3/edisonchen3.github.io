@@ -3,13 +3,7 @@ title: "Regional Cultural Spirit and Guangdong Chaoshan Network Literature Creat
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'The influence of “regionalism” on literary creation is self-evident. In addition to directly entering the 
-text through regional culture, there is also a hidden thinking influence, which can be largely explained as Jung’s 
-“collective unconsciousness” or a potential inheritance of psychological stereotypes. From this theoretical 
-perspective, when examining the creation of Chaoshan online literature, it can be found that there are different 
-dimensions of Chaoshan cultural spirit hidden in their works. These cultural spirits not only constitute the cultural 
-heritage and cultural thinking of Chaoshan's online literature, but also actively respond to the value advocacy of the 
-Central Committee of the CPC for "cultural confidence" and the practical demand for "telling Chinese stories well".'
+excerpt: 'This paper examines how regionalism shapes Chaoshan online literature, revealing embedded cultural spirits that reflect collective unconsciousness and psychological inheritance, aligning with the CPC’s cultural confidence and narrative goals. '
 date: 2024-08-15
 venue: 'Journal of Tongren University'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
