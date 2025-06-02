@@ -1,5 +1,5 @@
 ---
-title: "Regional Cultural Spirit and Guangdong Chaoshan Network Literature Creation（地域文化精神与潮汕网络文学创作）"
+title: "Regional Cultural Spirit and Guangdong Chaoshan Network Literature Creation"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-15-paper-title-number-2
