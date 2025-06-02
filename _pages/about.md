@@ -12,7 +12,7 @@ I'm a second year postgraduate student from [College of Liberal Arts](https://ww
 
 I am very fortunate to be advised by [Dr. Jiang Tao](https://www.wxy.stu.edu.cn/team_son.php?id=144&LB=86)/) from [College of Liberal Arts](https://www.wxy.pku.edu.cn/), Shantou University. 
 
-You can find my CV here: [Yaonan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 [Email](mailto:kurobayiunam@163.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/my-orcid?orcid=0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
 
