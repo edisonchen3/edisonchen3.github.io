@@ -1,5 +1,5 @@
 ---
-title: "On Chaoshan Online Literature: Its Present State, Bottleneck and Direction"
+title: "On Chaoshan Online Literature: Its Present State, Bottleneck and Direction(潮汕网络文学创作的现状、瓶颈与方向)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-15-paper-title-number-1
