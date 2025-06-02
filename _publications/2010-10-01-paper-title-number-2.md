@@ -2,7 +2,7 @@
 title: "Regional Cultural Spirit and Guangdong Chaoshan Network Literature Creation"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-15-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The influence of “regionalism” on literary creation is self-evident. In addition to directly entering the 
 text through regional culture, there is also a hidden thinking influence, which can be largely explained as Jung’s 
 “collective unconsciousness” or a potential inheritance of psychological stereotypes. From this theoretical 
