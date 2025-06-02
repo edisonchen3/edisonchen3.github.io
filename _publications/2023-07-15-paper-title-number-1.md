@@ -2,7 +2,7 @@
 title: "On Chaoshan Online Literature: Its Present State, Bottleneck and Direction"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-07-15-paper-title-number-1
 excerpt: 'Chaoshan online literature, as a branch of online literature of the Guangdong-Hong Kong-Macao Greater Bay Area, is relatively less developed compared with other regions. But in recent years, a number of writers and works with certain popularity and influence have emerged. Therefore, observing, sorting out and studying the development of Chaoshan online literature, and revealing its achievements and shortcomings, can fill a blind spot for current scholarship and find a new highlight for the area’s cultural development, and at the same time it can enrich the online literature research of the entire Guangdong-Hong Kong-Macao Greater Bay Area.'
 date: 2023-07-15
 venue: 'Journal of Shantou University(Humanities & Social Sciences Edition)'
