@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yaonan Chen / Personal Homepage"
+title                    : "Chen,Yaonan(Edison Chen,陈耀南)"
 title_separator          : "-"
 name                     : &name "Yaonan Chen"
 description              : &description "A second year postgraduate student from Shantou University"
@@ -23,12 +23,10 @@ repository               : "edisonchen3/edisonchen3.github.io"
 author:
   # Biographic information
   avatar           : "Yaonanchen.png"
-  name             : "Yaonan Chen（陈耀南）"
+  name             : "Yaonan Chen"
   pronouns         : # example: "he/his"  
-  bio              : "Master of Chinese Literature
-                      Digital Humanities Researcher in
-                      Shantou University"
-  location         : "Shantou City,Guangdong Province,PRC"
+  bio              : "MA Student,CLA,STU"
+  location         : "Shantou City"
   employer         : "Shantou University"
   uri              : # URL
   email            : "kurobayiunam@163.com" 
