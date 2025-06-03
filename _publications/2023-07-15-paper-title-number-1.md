@@ -17,10 +17,10 @@ Chaoshan online literature, as a branch of online literature of the Guangdong-Ho
 developed compared with other regions. But in recent years, a number of writers and works with certain popularity and influence have emerged.Therefore, observing, sorting out and studying the development of Chaoshan online literature, and revealing its achievements and shortcomings, canfill a blind spot for current scholarship and find a new highlight for the area’s cultural development, and at the same time it can enrich the onlineliterature research of the entire Guangdong-Hong Kong-Macao Greater Bay Area.
 
 
-## Keywords
+## Key words
 Chaoshan online literature; authors; development bottleneck; future direction
 
-[Download paper here](https://kns.cnki.net/kcms2/article/abstract?v=VQ0ntgfwFMSOmH-2yQaBydttDii--1iMcZqR3nCslANZBj3obk0oY5FoprwO164vy5A8eQkTmWTlcez1zsXbL1OHKppzXmS-kurPK80CV8rs-Krqmw2sfbqmWgfswFfrTCv9NT0kzXBiuPDoBmRiHpW-4BJbnyB6x6WicuLUXsRKi30SkaWu1L2ACENRbFbI8PCl-7GgLk4=&uniplatform=NZKPT))
+[Download paper here](https://kns.cnki.net/kcms2/article/abstract?v=VQ0ntgfwFMSOmH-2yQaBydttDii--1iMcZqR3nCslANZBj3obk0oY5FoprwO164vy5A8eQkTmWTlcez1zsXbL1OHKppzXmS-kurPK80CV8rs-Krqmw2sfbqmWgfswFfrTCv9NT0kzXBiuPDoBmRiHpW-4BJbnyB6x6WicuLUXsRKi30SkaWu1L2ACENRbFbI8PCl-7GgLk4=&uniplatform=NZKPT)
 
 Recommended citation: Jiang T & Chen YN. On Chaoshan Online Literature: Its Present State, Bottleneck and Direction. Journal of Shantou University(Humanities & Social Sciences Edition),2023,39(07):16-24+94.
 
