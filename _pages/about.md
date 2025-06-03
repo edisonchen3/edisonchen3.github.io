@@ -14,7 +14,7 @@ I'm currently a Master degree candidate in Modern and Contemporarary Chinese Lit
 
 I am very fortunate to be advised by [Dr. Tao Jiang](https://www.wxy.stu.edu.cn/team_son.php?id=144&LB=86)/) from [College of Liberal Arts](https://www.wxy.stu.edu.cn/), Shantou University. 
 
-I received my Bachelor's Degree in Mechanical Engineering from [Shantou University](https://www.stu.edu.cn/), and my final year project "Processing optimization of selective laser melting based on finite element analysis" won the Outstanding Undergraduate Graduation Design (Thesis) of Shantou University under the supervision of [Dr. Zhongfa Mao](https://eng.stu.edu.cn/info/1083/1833.htm).
+I received my Bachelor's Degree in Mechanical Engineering from [College of Engineering](https://eng.stu.edu.cn/) in Shantou University, and my final year project "Processing optimization of selective laser melting based on finite element analysis" won the Outstanding Undergraduate Graduation Design (Thesis) of Shantou University under the supervision of [Dr. Zhongfa Mao](https://eng.stu.edu.cn/info/1083/1833.htm).
 
 You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
