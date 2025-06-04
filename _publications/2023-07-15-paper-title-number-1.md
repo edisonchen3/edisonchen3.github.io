@@ -6,11 +6,13 @@ permalink: /publication/2023-07-15-paper-title-number-1
 excerpt: 'This paper examines Chaoshan online literature’s development within the Guangdong-Hong Kong-Macao Greater Bay Area, noting emerging writers and works. It addresses scholarly gaps, advances cultural progress, and enriches GBA-wide online literary studies.'
 date: 2023-07-15
 venue: 'Journal of Shantou University(Humanities & Social Sciences Edition)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://edisonchen3.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jiang,T.& Chen,Y.N. (2023). &quot;On Chaoshan Online Literature: Its Present State, Bottleneck and Direction.&quot; <i>Journal of Shantou University(Humanities & Social Sciences Edition)</i>. 39(07):16-24+94.'
 ---
+<!--
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+-->
 
 ## Abstract
 Chaoshan online literature, as a branch of online literature of the Guangdong-Hong Kong-Macao Greater Bay Area, is relatively less
