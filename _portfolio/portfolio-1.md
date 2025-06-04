@@ -1,6 +1,6 @@
 ---
-title: "Database of Nanjing "Xinmin" Daily's literary supplement "Xinyuandi"(1935-1937) 南京《新民报》《新园地》副刊数据库（1935-1937）"
-excerpt: "This database is derived from the supplement New Garden of Nanjing Xinmin Daily (1935-1937)"
+title: "Database of Nanjing 'Xinmin' Daily's literary supplement 'Xinyuandi'(1935-1937) 南京《新民报》《新园地》副刊数据库（1935-1937）"
+excerpt: "This database is derived from the supplement New Garden of Nanjing Xinmin Daily"
 Link: "[Click here for more information](https://zenodo.org/records/15378243)"
 collection: portfolio
 ---
