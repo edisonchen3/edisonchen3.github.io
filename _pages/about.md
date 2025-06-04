@@ -18,7 +18,7 @@ I received my Bachelor's Degree in Mechanical Engineering from [College of Engin
 
 You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](mailto:kurobayiunam@163.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/my-orcid?orcid=0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
+[Email](mailto:kurobayiunam@163.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
 
 # News
 
