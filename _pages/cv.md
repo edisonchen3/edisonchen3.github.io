@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.A. in Modern and Contemporary Chinese Literature, Shantou University, 2026(expected)
-* B.S. in Mechanical Engineering, Shantou University, 2020
+* B.E. in Mechanical Engineering, Shantou University, 2020
 
 <!--
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
