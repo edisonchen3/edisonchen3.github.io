@@ -114,8 +114,8 @@ Honors and Awards
   * Bronze Prize
   * November 2024           
 * The 6th National College Students’ Language and Character Competition
- * Second Prize
- * June 2024
+  * Second Prize
+  * June 2024
 * 2024 Shantou University Graduate Academic Excellence Scholarship
   * First prize
   * September 2024
