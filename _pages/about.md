@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Dr. Tao Jiang](https://www.wxy.stu.edu.cn/
 
 I received my Bachelor's Degree in Mechanical Engineering from [College of Engineering](https://eng.stu.edu.cn/) in Shantou University, and my final year project "Processing optimization of selective laser melting based on finite element analysis" won the Outstanding Undergraduate Graduation Design (Thesis) of Shantou University under the supervision of [Dr. Zhongfa Mao](https://eng.stu.edu.cn/info/1083/1833.htm).
 
-You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/CV_Chen.pdf)
 
 [Email](mailto:kurobayiunam@163.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
 
