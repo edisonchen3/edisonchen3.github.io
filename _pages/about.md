@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My current research interest includes contemporary Chinese literature and cultural studies, science fiction studies, and digital humanities.
+I'm currently a Master degree candidate in Modern and Contemporarary Chinese Literature at [Shantou University](https://www.stu.edu.cn/) since the fall of 2023. I received my Bachelor's Degree in [College of Engineering](https://eng.stu.edu.cn/) in Shantou University, and my final year project  won the Outstanding Undergraduate Graduation Design (Thesis) of Shantou University under the supervision of [Dr. Zhongfa Mao](https://eng.stu.edu.cn/info/1083/1833.htm).
 
-I'm currently a Master degree candidate in Modern and Contemporarary Chinese Literature at [Shantou University](https://www.stu.edu.cn/) since the fall of 2023. 
+My current research interests focus on, but not limited to contemporary Chinese literature and cultural studies, science fiction studies, and digital humanities.
 
-I am very fortunate to be advised by [Dr. Tao Jiang](https://www.wxy.stu.edu.cn/team_son.php?id=144&LB=86)/) from [College of Liberal Arts](https://www.wxy.stu.edu.cn/), Shantou University. 
+It is my great pleasure to be supervised by [Dr. Tao Jiang](https://www.wxy.stu.edu.cn/team_son.php?id=144&LB=86)/)from [College of Liberal Arts](https://www.wxy.stu.edu.cn/) during my postgraduate studies. In my free time, I enjoy basketball (champion of the 2016-2017 Shantou University Intercollegiate Cup Basketball League, champion of the 2016-2017 Shantou University Sports Festival Basketball Tournament, quarterfinals of the 2019 Guangdong Province 3V3 College Basketball League, fourth place in the 2024 Shantou University Sports Festival Basketball Tournament), middle and long distance running (2016-2017 Shantou University Games 5000m 4th place, 2016-2018 Shantou University Games 1500m 4th place), swimming, billiards, and travelling.
 
-I received my Bachelor's Degree in Mechanical Engineering from [College of Engineering](https://eng.stu.edu.cn/) in Shantou University, and my final year project "Processing optimization of selective laser melting based on finite element analysis" won the Outstanding Undergraduate Graduation Design (Thesis) of Shantou University under the supervision of [Dr. Zhongfa Mao](https://eng.stu.edu.cn/info/1083/1833.htm).
+I expect to graduate in June 2026. I am currently actively seeking a PhD position in Fall 2026.
 
 You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/CV_Chen.pdf)
 
@@ -31,7 +31,14 @@ My paper ["Leftist Cultural Production in the Anti-Japanese War: Practices and P
 ## Receive the award of Graduate Academic Excellence First-Class Scholarship of Shantou University, September 24, 2024
 
 Due to my excellent overall performance in 2023-2024, I was awarded the first-class academic excellence scholarship by our
-university, with an amount of RMB 12,000.
+university, with an amount of RMB ¥12,000.
+
+## Receive the award of Graduate Academic Excellence Second-Class Scholarship of Shantou University, September 24, 2023
+
+Due to my excellent overall performance during graduate study, I was awarded the first-class academic excellence scholarship by our
+university, with an amount of RMB ¥7,000.
+
+
 
 
 
